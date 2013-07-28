@@ -1,6 +1,3 @@
-
-package com.learning;
-
 public class FlyNoWay implements FlyBehavior {
 
 	@Override

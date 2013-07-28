@@ -1,6 +1,3 @@
-
-package com.learning;
-
 public abstract class Duck {
 
 	FlyBehavior flyBehavior;

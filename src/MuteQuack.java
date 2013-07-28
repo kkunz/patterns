@@ -1,5 +1,3 @@
-package com.learning;
-
 public class MuteQuack implements QuackBehavior {
 
 	@Override
