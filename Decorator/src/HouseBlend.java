@@ -1,0 +1,13 @@
+/**
+ * Created by Karl on 8/8/2016.
+ */
+public class HouseBlend extends Beverage {
+
+    public HouseBlend() {
+        description = "HouseBlend";
+    }
+    @Override
+    public double cost() {
+        return .89;
+    }
+}
